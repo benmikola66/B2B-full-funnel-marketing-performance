@@ -1,15 +1,7 @@
 # B2B SaaS Marketing Analytics Project  
 ### Full-Funnel, Attribution, Influence, and LTV Analysis for a SaaS Analytics Company
 
----
 
-# 📥 Get the Tableau Workbook
-
-**▶ View on Tableau Public:**  
-[[***Add your Tableau Public link here**](https://public.tableau.com/app/profile/ben.mikola/viz/CRMFullFunnelSalesMarketingAnalytics/2025Overview)]
-
-All dashboard images referenced below are stored in:  
-`/images/`
 
 ---
 
@@ -23,6 +15,14 @@ All dashboard images referenced below are stored in:
   - [Lead Source Performance](/images/lead_source_performance.PNG)  
   - [Attribution](/images/attribution.PNG)  
 ---
+
+# Get the Tableau Workbook
+
+**▶ View on Tableau Public:**  
+[[***Add your Tableau Public link here**](https://public.tableau.com/app/profile/ben.mikola/viz/CRMFullFunnelSalesMarketingAnalytics/2025Overview)]
+
+All dashboard images referenced below are stored in:  
+`/images/`
 # 🚀 What This Project Demonstrates
 
 ## ✔ SQL Data Cleaning
