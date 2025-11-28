@@ -15,32 +15,14 @@ All dashboard images referenced below are stored in:
 
 # 📸 Dashboard Previews
 
-### **2025 Overview**
-`/images/2025_overview.PNG`  
-![2025 Overview](/images/2025_overview.PNG)
-
-### **Sales Funnel**
-`/images/sales_funnel.PNG`  
-![Sales Funnel](/images/sales_funnel.PNG)
-
-### **LTV & Churn**
-`/images/ltv_churn.PNG`  
-![LTV & Churn](/images/ltv_churn.PNG)
-
-### **Channel Influence**
-`/images/influence_buy_channel.PNG`  
-![Influence by Channel](/images/influence_buy_channel.PNG)
-
-### **Lead Source Performance**
-`/images/lead_source_performance.PNG`  
-![Lead Source Performance](/images/lead_source_performance.PNG)
-
-### **Attribution**
-`/images/attribution.PNG`  
-![Attribution Dashboard](/images/attribution.PNG)
-
+- **Dashboard Images (click to open):**  
+  - [2025 Overview](/images/2025_overview.PNG)  
+  - [Sales Funnel](/images/sales_funnel.PNG)  
+  - [LTV & Churn](/images/ltv_churn.PNG)  
+  - [Channel Influence](/images/influence_buy_channel.PNG)  
+  - [Lead Source Performance](/images/lead_source_performance.PNG)  
+  - [Attribution](/images/attribution.PNG)  
 ---
-
 # 🚀 What This Project Demonstrates
 
 ## ✔ SQL Data Cleaning
